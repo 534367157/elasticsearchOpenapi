@@ -1,14 +1,13 @@
 {
-    "name": "liuyxx/elasticsearch-openapi",
-    "description": "php es",
-    "type": "library",
-    "license": "llxx5343",
+    "name": "lyxxs/elasticsearch-openapi",
+    "description": "an example test",
+    "license": "MIT",
     "authors": [
         {
             "name": "liuyanxiao",
             "email": "liuyx@fshows.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
