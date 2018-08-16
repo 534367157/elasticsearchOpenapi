@@ -12,5 +12,5 @@
             "email": "liuyx@fshows.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
