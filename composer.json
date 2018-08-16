@@ -1,20 +1,14 @@
 {
-    "name": "liuyx/elasticsearch-openapi",
-    "description": "es openapi",
+    "name": "liuyxx/elasticsearch-openapi",
+    "description": "php es",
+    "type": "library",
+    "license": "llxx5343",
     "authors": [
         {
             "name": "liuyanxiao",
             "email": "liuyx@fshows.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
-    },
-    "autoload": {
-        "psr-0": {
-            "liuyx\\elasticsearch-openapi": "src/"
-        }
-    },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require": {}
 }
