@@ -1,5 +1,5 @@
 {
-    "name": "eden/elasticsearch-openapi",
+    "name": "liuyx/elasticsearch-openapi",
     "description": "es openapi",
     "type": "project",
     "require": {
