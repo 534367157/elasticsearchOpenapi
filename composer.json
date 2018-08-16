@@ -1,0 +1,16 @@
+{
+    "name": "eden/elasticsearch-openapi",
+    "description": "es openapi",
+    "type": "project",
+    "require": {
+        "php": ">=5.3.0",
+        "elasticsearch/elasticsearch": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "liuyanxiao",
+            "email": "liuyx@fshows.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
